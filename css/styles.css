@@ -4,7 +4,7 @@ body{
   color: white;
   /*font-family: Georgia, Times, Times New Roman, serif  sans-serif;*/
   /*font-family:SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;}*/
-  font-family: Candara, Calibri, Segoe, Segoe UI, Optima, Arial, sans-serif;
+  font-family: Candara;
 }
 
 
@@ -64,7 +64,7 @@ nav{
   padding-top: 20px;
   margin-top: 20px;
   margin-bottom: 20px;
-  font-family: Georgia, Times, Times New Roman, serif  sans-serif;
+  /*font-family: Georgia, Times, Times New Roman, serif  sans-serif;*/
   font-size: 8;
 }
 
